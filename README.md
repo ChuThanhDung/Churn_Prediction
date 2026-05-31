@@ -2,6 +2,8 @@
 
 [Tiếng Việt](README.vi.md)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churnprediction-4go2ex6uwphrqghqzrzbl2.streamlit.app/)
+
 A reproducible machine learning portfolio project for predicting customer churn
 from the IBM Telco Customer Churn dataset. The repository includes an analysis
 notebook, three trained scikit-learn pipelines, a Streamlit dashboard, batch
@@ -9,8 +11,7 @@ prediction, tests, and CI.
 
 ## Live Demo
 
-Deploy your fork on [Streamlit Community Cloud](https://share.streamlit.io/) and
-add the resulting `*.streamlit.app` URL here.
+[Open the deployed Streamlit dashboard](https://churnprediction-4go2ex6uwphrqghqzrzbl2.streamlit.app/).
 
 ## Business Problem
 

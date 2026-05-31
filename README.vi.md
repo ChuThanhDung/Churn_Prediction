@@ -2,14 +2,15 @@
 
 [English](README.md)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churnprediction-4go2ex6uwphrqghqzrzbl2.streamlit.app/)
+
 Đây là dự án portfolio machine learning có thể tái lập để dự đoán khách hàng rời
 bỏ dịch vụ viễn thông. Repo gồm notebook phân tích, ba pipeline scikit-learn đã
 huấn luyện, dashboard Streamlit, dự đoán CSV hàng loạt, kiểm thử và CI.
 
 ## Demo Trực Tuyến
 
-Deploy bản fork trên [Streamlit Community Cloud](https://share.streamlit.io/) và
-thêm URL `*.streamlit.app` vào đây.
+[Mở dashboard Streamlit đã triển khai](https://churnprediction-4go2ex6uwphrqghqzrzbl2.streamlit.app/).
 
 ## Kết Quả Mô Hình
 
