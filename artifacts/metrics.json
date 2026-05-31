@@ -1,0 +1,29 @@
+{
+  "logistic_regression": {
+    "display_name": "Logistic Regression",
+    "accuracy": 0.7376466405972272,
+    "balanced_accuracy": 0.7620492418847354,
+    "precision": 0.5041390728476821,
+    "recall": 0.8141711229946524,
+    "f1": 0.6226993865030674,
+    "auc": 0.8418170812238608
+  },
+  "svm_rbf": {
+    "display_name": "SVM RBF",
+    "accuracy": 0.7394241023817988,
+    "balanced_accuracy": 0.7589967111652056,
+    "precision": 0.5063398140321217,
+    "recall": 0.8008021390374331,
+    "f1": 0.6204039357845675,
+    "auc": 0.8299112403050589
+  },
+  "naive_bayes": {
+    "display_name": "Naive Bayes",
+    "accuracy": 0.7163170991823676,
+    "balanced_accuracy": 0.7466687599539046,
+    "precision": 0.4802215189873418,
+    "recall": 0.8114973262032086,
+    "f1": 0.6033797216699801,
+    "auc": 0.8136852429723815
+  }
+}
